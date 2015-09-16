@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:59.767916
+# -*- mode: mandoku-view -*-
 #+TITLE: 元始無量度人上品妙經通義
-#+PROPERTY: DZID  DZ0089
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—292 四卷 洞真部玉訣類
+#+DATE: 2015-08-28 23:36:02
+#+PROPERTY:  LASTPB <PB KR5a0089_SJB_004-020321c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶
+
